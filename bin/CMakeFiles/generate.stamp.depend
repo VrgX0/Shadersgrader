@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake
+D:/ComputerGraphics/bin/CMakeFiles/3.18.3/CMakeCCompiler.cmake
+D:/ComputerGraphics/bin/CMakeFiles/3.18.3/CMakeCXXCompiler.cmake
+D:/ComputerGraphics/bin/CMakeFiles/3.18.3/CMakeRCCompiler.cmake
+D:/ComputerGraphics/bin/CMakeFiles/3.18.3/CMakeSystem.cmake
+D:/ComputerGraphics/src/CMakeLists.txt
+D:/ComputerGraphics/src/external/rpavlik-cmake-modules-fe2273/CleanDirectoryList.cmake
+D:/ComputerGraphics/src/external/rpavlik-cmake-modules-fe2273/CreateLaunchers.cmake
+D:/ComputerGraphics/src/external/rpavlik-cmake-modules-fe2273/ListCombinations.cmake
+D:/ComputerGraphics/src/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake
+D:/ComputerGraphics/src/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.cmd.in
+D:/ComputerGraphics/src/external/rpavlik-cmake-modules-fe2273/launcher-templates/vcxproj.user.in

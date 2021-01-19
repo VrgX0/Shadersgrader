@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ComputerGraphics\src\playground\playground.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ComputerGraphics\src\playground\parse_stl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ComputerGraphics\src\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\ComputerGraphics\src\playground\playground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ComputerGraphics\src\playground\parse_stl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ComputerGraphics\src\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ComputerGraphics\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\ComputerGraphics\src\playground\SimpleFragmentShader.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="D:\ComputerGraphics\src\playground\SimpleVertexShader.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EB953DAA-D777-30D5-A3CC-0DAC81FB68B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9C040396-B850-3785-918B-0ED23D72A977}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{B52C49AC-141B-3A6F-97D6-D03CA86D07C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{3A5C4334-B29D-3C87-922A-CCAF5608B37C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

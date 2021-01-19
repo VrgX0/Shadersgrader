@@ -1,0 +1,10 @@
+^D:\COMPUTERGRAPHICS\BIN\CMAKEFILES\C464E071F1AC725D9B322658E5ADF3A3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ComputerGraphics/src -BD:/ComputerGraphics/bin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ComputerGraphics/bin/OpenGL-Template.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
